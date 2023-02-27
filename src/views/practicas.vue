@@ -142,43 +142,43 @@ carousel,
 data: () => ({
 imagenes: [
 
-    '/src/assets/img/semana1/Semana101.png',
-    '/src/assets/img/semana1/Semana102.png',
-    '/src/assets/img/semana1/Semana103.png',
+    '../src/assets/img/semana1/Semana101.png',
+    '../src/assets/img/semana1/Semana102.png',
+    '../src/assets/img/semana1/Semana103.png',
     
 ],
 imagenes2: [
 
-    '/src/assets/img/semana2/1.png',
-    '/src/assets/img/semana2/2.png',
-    '/src/assets/img/semana2/3.png',
+    '../src/assets/img/semana2/1.png',
+    '../src/assets/img/semana2/2.png',
+    '../src/assets/img/semana2/3.png',
     
 ],
 imagenes3: [
 
-    '/src/assets/img/semana3/1.png',
-    '/src/assets/img/semana3/2.png',
-    '/src/assets/img/semana3/3.png',
+    '../src/assets/img/semana3/1.png',
+    '../src/assets/img/semana3/2.png',
+    '../src/assets/img/semana3/3.png',
 
 ],
 
 imagenes4: [
 
-    '/src/assets/img/semana4/countries.png',
-    '/src/assets/img/semana4/filters.png',
-    '/src/assets/img/semana4/requests.png',
-    '/src/assets/img/semana4/router.png',
-    '/src/assets/img/semana4/indexView.png',
-    '/src/assets/img/semana4/agregarmain.png',
+    '../src/assets/img/semana4/countries.png',
+    '../src/assets/img/semana4/filters.png',
+    '../src/assets/img/semana4/requests.png',
+    '../src/assets/img/semana4/router.png',
+    '../src/assets/img/semana4/indexView.png',
+    '../src/assets/img/semana4/agregarmain.png',
     
 ],
 imagenes5: [
-    '/src/assets/img/semana5/2.png',
-    '/src/assets/img/semana5/4.png',
-    '/src/assets/img/semana5/6.png',    
-    '/src/assets/img/semana5/1.png',
-    '/src/assets/img/semana5/5.png',
-    '/src/assets/img/semana5/3.png', 
+    '../src/assets/img/semana5/2.png',
+    '../src/assets/img/semana5/4.png',
+    '../src/assets/img/semana5/6.png',    
+    '../src/assets/img/semana5/1.png',
+    '../src/assets/img/semana5/5.png',
+    '../src/assets/img/semana5/3.png', 
 ],
 
 

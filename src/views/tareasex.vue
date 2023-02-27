@@ -60,11 +60,11 @@ carousel,
 data: () => ({
 imagenes: [
 
-    '/src/assets/img/ex/asignacion.jpeg',
-    '/src/assets/img/ex/asignacion1.PNG',
-    '/src/assets/img/ex/asignacion2.PNG',
-    '/src/assets/img/ex/nota.jpeg',
-    '/src/assets/img/ex/portada2.jpeg',
+    '../src/assets/img/ex/asignacion.jpeg',
+    '../src/assets/img/ex/asignacion1.PNG',
+    '../src/assets/img/ex/asignacion2.PNG',
+    '../src/assets/img/ex/nota.jpeg',
+    '../src/assets/img/ex/portada2.jpeg',
 
     
 ],
