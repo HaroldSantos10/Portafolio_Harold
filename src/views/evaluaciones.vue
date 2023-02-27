@@ -50,8 +50,8 @@ data: () => ({
 imagenes: [
 
     '/src/assets/img/evaluacion/nota.jpeg',
-    '/src/assets/img/evaluacion/nota2.PNG',
-    '/src/assets/img/evaluacion/nota3.PNG',
+    '/src/assets/img/evaluacion/nota2.png',
+    '/src/assets/img/evaluacion/nota3.png',
     
 ],
 
