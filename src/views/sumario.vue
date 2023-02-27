@@ -201,7 +201,7 @@
 
                             </dd></dl>
                             
-                            <img src="../assets/img/partes_directiva.PNG" class="img-fluid" alt="partes de una directiva">
+                            <img src="../assets/img/partesdirectiva.PNG" class="img-fluid" alt="partes de una directiva">
 
                         <p>
                             <br>
@@ -228,7 +228,7 @@
                             <br>
                             <br>
 
-                            <img src="../assets/img/directiva_for.PNG" class="img-fluid" alt="partes de una directiva for">
+                            <img src="../assets/img/directivafor.PNG" class="img-fluid" alt="partes de una directiva for">
 
                         </p>
 

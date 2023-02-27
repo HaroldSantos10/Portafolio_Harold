@@ -38,18 +38,18 @@ export default({
     data: () => ({
         imagenes: [
 
-            '/src/assets/img/apuntes/img_01.png',
-            '/src/assets/img/apuntes/img_02.png',
-            '/src/assets/img/apuntes/img_03.png',
-            '/src/assets/img/apuntes/img_04.png',
-            '/src/assets/img/apuntes/img_05.png',
-            '/src/assets/img/apuntes/img_113.png',
-            '/src/assets/img/apuntes/img_123.png',
-            '/src/assets/img/apuntes/img_06.png',
-            '/src/assets/img/apuntes/img_07.png',
-            '/src/assets/img/apuntes/img_08.png',
-            '/src/assets/img/apuntes/img_09.png',
-            '/src/assets/img/apuntes/img_10.png',
+            '/src/assets/img/apuntes/img01.png',
+            '/src/assets/img/apuntes/img02.png',
+            '/src/assets/img/apuntes/img03.png',
+            '/src/assets/img/apuntes/img04.png',
+            '/src/assets/img/apuntes/img05.png',
+            '/src/assets/img/apuntes/img113.png',
+            '/src/assets/img/apuntes/img123.png',
+            '/src/assets/img/apuntes/img06.png',
+            '/src/assets/img/apuntes/img07.png',
+            '/src/assets/img/apuntes/img08.png',
+            '/src/assets/img/apuntes/img09.png',
+            '/src/assets/img/apuntes/img10.png',
 
             
         ]

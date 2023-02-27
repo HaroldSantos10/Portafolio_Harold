@@ -142,23 +142,23 @@ carousel,
 data: () => ({
 imagenes: [
 
-    '/src/assets/img/semana1/Semana 1_01.PNG',
-    '/src/assets/img/semana1/Semana 1_02.PNG',
-    '/src/assets/img/semana1/Semana 1_03.PNG',
+    '/src/assets/img/semana1/Semana101.PNG',
+    '/src/assets/img/semana1/Semana102.PNG',
+    '/src/assets/img/semana1/Semana103.PNG',
     
 ],
 imagenes2: [
 
-    '/src/assets/img/semana2/Semana 2_01html.png',
-    '/src/assets/img/semana2/Semana 2_02JS.png',
-    '/src/assets/img/semana2/Semana 2_02JS02.png',
+    '/src/assets/img/semana2/1.png',
+    '/src/assets/img/semana2/2.png',
+    '/src/assets/img/semana2/3.png',
     
 ],
 imagenes3: [
 
-    '/src/assets/img/semana3/Example_component.PNG',
-    '/src/assets/img/semana3/Example_View.PNG',
-    '/src/assets/img/semana3/router_index1.png',
+    '/src/assets/img/semana3/1.PNG',
+    '/src/assets/img/semana3/2.PNG',
+    '/src/assets/img/semana3/3.png',
 
 ],
 
@@ -173,12 +173,12 @@ imagenes4: [
     
 ],
 imagenes5: [
-    '/src/assets/img/semana5/cambios_filters.PNG',
-    '/src/assets/img/semana5/cambios_countries.PNG',
-    '/src/assets/img/semana5/cambios_countries2.PNG',    
-    '/src/assets/img/semana5/dependencias_agregadas.PNG',
-    '/src/assets/img/semana5/paginador.PNG',
-    '/src/assets/img/semana5/store_index.PNG', 
+    '/src/assets/img/semana5/2.PNG',
+    '/src/assets/img/semana5/4.PNG',
+    '/src/assets/img/semana5/6.PNG',    
+    '/src/assets/img/semana5/1.PNG',
+    '/src/assets/img/semana5/5.PNG',
+    '/src/assets/img/semana5/3.PNG', 
 ],
 
 

@@ -15,7 +15,7 @@
                         <br>
                     </div> 
             
-                    <img src="../assets/img/Calendarizacion computo1.png" class="img-fluid" alt="usos de JavaScript">
+                    <img src="../assets/img/CalendarizacionComputo1.png" class="img-fluid" alt="usos de JavaScript">
             </div>
         </div>
 </section>

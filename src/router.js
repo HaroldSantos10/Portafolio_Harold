@@ -5,7 +5,7 @@ import Sumario from './views/sumario.vue'
 import Jornalizacion from './views/jornalizacion.vue'
 import Apuntes from './views/apuntes.vue'
 import Practicas from './views/practicas.vue'
-import TareasExaula from './views/tareas_ex.vue'
+import TareasExaula from './views/tareasex.vue'
 import Investigaciones from './views/investigaciones.vue'
 import Evaluaciones from './views/evaluaciones.vue'
 
@@ -17,7 +17,7 @@ export default createRouter({
             path: '/',
             name: 'Portada',
             component: Home
-        },
+        }, 
         {
             path: '/intro',
             name: 'Introduccion',
@@ -44,7 +44,7 @@ export default createRouter({
             component: Practicas
         },
         {
-            path: '/tareas_ex',
+            path: '/tareasex',
             name: 'Exaula',
             component: TareasExaula
         },
