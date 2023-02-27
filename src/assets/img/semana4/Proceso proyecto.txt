@@ -1,0 +1,11 @@
+
+--Se crea un proyecto con VueJS usando vite 
+
+Se crean un conjunto de componentes que están orientados para el consumo 
+de una API llamada Countries.
+
+Se crea una carpeta View dentro de la cual se introduce el index.vue
+
+tambien se agregaa el router-vue una libreria que permite administrar las rutas
+de los componentes dentro del proyecto.
+
